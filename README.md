@@ -35,4 +35,3 @@ Java 11 (Be sure to have the Oracle distribution of the Java version installed, 
 
   Next up, navigate here https://drive.google.com/file/d/1WERXVZ-SHA_uX9Gbl0KI9Z3J3_1OUn2Z/view , download the settings.xml file and place it in the .m2 maven folder of your filesystem. Make sure you delete any one you have previously so they don’t clash.
 
-##### Finally, change README.md :)
